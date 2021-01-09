@@ -165,6 +165,8 @@ github.com/datachainlab/cross v0.0.8-0.20210106062451-70e261f7aa8f h1:56ihL19q4f
 github.com/datachainlab/cross v0.0.8-0.20210106062451-70e261f7aa8f/go.mod h1:DFvph+0JEU8wLhkEdFMr+8b5fywVzQFDxCdW06hrQzs=
 github.com/datachainlab/fabric-ibc v0.0.0-20210108154008-4df1a7802005 h1:8YItJjqn3YcGTdZncyTisvMUi8iBEM9yvKUj5EhF0tA=
 github.com/datachainlab/fabric-ibc v0.0.0-20210108154008-4df1a7802005/go.mod h1:jbX5OJSfG4Go9XZTVgflhnOm61u6fLDegPhVp7XtPXg=
+github.com/datachainlab/fabric-ibc v0.0.0-20210109115359-e043f579dbae h1:Cr9ijvnWHSngeM4Hp2yjFo2xQF4575SojrW2vXjwZF4=
+github.com/datachainlab/fabric-ibc v0.0.0-20210109115359-e043f579dbae/go.mod h1:jbX5OJSfG4Go9XZTVgflhnOm61u6fLDegPhVp7XtPXg=
 github.com/davecgh/go-spew v0.0.0-20171005155431-ecdeabc65495/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=

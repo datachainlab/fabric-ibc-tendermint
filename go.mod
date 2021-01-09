@@ -5,7 +5,7 @@ go 1.15
 require (
 	github.com/cosmos/cosmos-sdk v0.40.0-rc3
 	github.com/datachainlab/cross v0.0.8-0.20210106062451-70e261f7aa8f
-	github.com/datachainlab/fabric-ibc v0.0.0-20210108154008-4df1a7802005
+	github.com/datachainlab/fabric-ibc v0.0.0-20210109115359-e043f579dbae
 	github.com/gogo/protobuf v1.3.1
 	github.com/golang/protobuf v1.4.3
 	github.com/gorilla/mux v1.8.0
