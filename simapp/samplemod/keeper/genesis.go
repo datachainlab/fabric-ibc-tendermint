@@ -2,7 +2,7 @@ package keeper
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/datachainlab/cross/simapp/samplemod/types"
+	"github.com/datachainlab/fabric-ibc-tendermint/simapp/samplemod/types"
 )
 
 // InitGenesis initializes the bridge module state and binds to PortID.

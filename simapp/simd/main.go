@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/cosmos/cosmos-sdk/server"
-	"github.com/datachainlab/cross/simapp/simd/cmd"
+	"github.com/datachainlab/fabric-ibc-tendermint/simapp/simd/cmd"
 )
 
 func main() {

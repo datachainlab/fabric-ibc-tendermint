@@ -5,11 +5,11 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/datachainlab/cross/simapp/samplemod/client/cli"
-	"github.com/datachainlab/cross/simapp/samplemod/keeper"
-	"github.com/datachainlab/cross/simapp/samplemod/types"
 	contracttypes "github.com/datachainlab/cross/x/core/contract/types"
 	txtypes "github.com/datachainlab/cross/x/core/tx/types"
+	"github.com/datachainlab/fabric-ibc-tendermint/simapp/samplemod/client/cli"
+	"github.com/datachainlab/fabric-ibc-tendermint/simapp/samplemod/keeper"
+	"github.com/datachainlab/fabric-ibc-tendermint/simapp/samplemod/types"
 
 	"github.com/gorilla/mux"
 	"github.com/grpc-ecosystem/grpc-gateway/runtime"

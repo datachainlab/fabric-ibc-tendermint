@@ -6,8 +6,8 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/client"
 	"github.com/cosmos/cosmos-sdk/client/flags"
-	"github.com/datachainlab/cross/simapp/samplemod/types"
 	accounttypes "github.com/datachainlab/cross/x/core/account/types"
+	"github.com/datachainlab/fabric-ibc-tendermint/simapp/samplemod/types"
 	"github.com/spf13/cobra"
 )
 

@@ -87,9 +87,6 @@ import (
 	upgradekeeper "github.com/cosmos/cosmos-sdk/x/upgrade/keeper"
 	upgradetypes "github.com/cosmos/cosmos-sdk/x/upgrade/types"
 
-	"github.com/datachainlab/cross/simapp/samplemod"
-	samplemodkeeper "github.com/datachainlab/cross/simapp/samplemod/keeper"
-	samplemodtypes "github.com/datachainlab/cross/simapp/samplemod/types"
 	cross "github.com/datachainlab/cross/x/core"
 	crossatomic "github.com/datachainlab/cross/x/core/atomic"
 	atomickeeper "github.com/datachainlab/cross/x/core/atomic/keeper"
@@ -102,6 +99,9 @@ import (
 	crosstypes "github.com/datachainlab/cross/x/core/types"
 	xcctypes "github.com/datachainlab/cross/x/core/xcc/types"
 	"github.com/datachainlab/cross/x/packets"
+	"github.com/datachainlab/fabric-ibc-tendermint/simapp/samplemod"
+	samplemodkeeper "github.com/datachainlab/fabric-ibc-tendermint/simapp/samplemod/keeper"
+	samplemodtypes "github.com/datachainlab/fabric-ibc-tendermint/simapp/samplemod/types"
 
 	fabric "github.com/datachainlab/fabric-ibc/x/ibc/light-clients/xx-fabric"
 

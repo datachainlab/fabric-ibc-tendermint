@@ -3,7 +3,7 @@ package samplemod
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
-	"github.com/datachainlab/cross/simapp/samplemod/keeper"
+	"github.com/datachainlab/fabric-ibc-tendermint/simapp/samplemod/keeper"
 )
 
 // NewHandler returns sdk.Handler for IBC token transfer module messages

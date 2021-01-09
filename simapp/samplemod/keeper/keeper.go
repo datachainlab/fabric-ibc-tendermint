@@ -9,13 +9,13 @@ import (
 	"github.com/cosmos/cosmos-sdk/codec"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/datachainlab/cross/simapp/samplemod/types"
 	accounttypes "github.com/datachainlab/cross/x/core/account/types"
 	contracttypes "github.com/datachainlab/cross/x/core/contract/types"
 	storetypes "github.com/datachainlab/cross/x/core/store/types"
 	txtypes "github.com/datachainlab/cross/x/core/tx/types"
 	crosstypes "github.com/datachainlab/cross/x/core/types"
 	xcctypes "github.com/datachainlab/cross/x/core/xcc/types"
+	"github.com/datachainlab/fabric-ibc-tendermint/simapp/samplemod/types"
 )
 
 type Keeper struct {

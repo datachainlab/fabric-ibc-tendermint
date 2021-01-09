@@ -4,7 +4,7 @@ import (
 	"context"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/datachainlab/cross/simapp/samplemod/types"
+	"github.com/datachainlab/fabric-ibc-tendermint/simapp/samplemod/types"
 )
 
 var _ types.QueryServer = (*Keeper)(nil)

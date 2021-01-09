@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/cosmos/cosmos-sdk/client"
-	"github.com/datachainlab/cross/simapp/samplemod/types"
+	"github.com/datachainlab/fabric-ibc-tendermint/simapp/samplemod/types"
 	"github.com/spf13/cobra"
 )
 
