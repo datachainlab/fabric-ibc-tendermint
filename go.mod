@@ -3,13 +3,11 @@ module github.com/datachainlab/fabric-ibc-tendermint
 go 1.15
 
 require (
-	github.com/bluele/interchain-simple-packet v0.0.0-20200921011237-118864bc041e
 	github.com/cosmos/cosmos-sdk v0.40.0-rc3
 	github.com/datachainlab/cross v0.0.8-0.20210106062451-70e261f7aa8f
-	github.com/datachainlab/fabric-ibc v0.0.0-20210108154008-4df1a7802005 // indirect
+	github.com/datachainlab/fabric-ibc v0.0.0-20210108154008-4df1a7802005
 	github.com/gogo/protobuf v1.3.1
 	github.com/golang/protobuf v1.4.3
-	github.com/google/go-cmp v0.5.2 // indirect
 	github.com/gorilla/mux v1.8.0
 	github.com/grpc-ecosystem/grpc-gateway v1.15.2
 	github.com/rakyll/statik v0.1.7
